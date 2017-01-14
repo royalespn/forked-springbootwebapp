@@ -44,3 +44,5 @@ public class ProductLoader implements ApplicationListener<ContextRefreshedEvent>
         log.info("Saved Mug - id:" + mug.getId());
     }
 }
+
+//comment to check in local repo
